@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ title }}</title>
+  <link rel="stylesheet" href="/assets/css/main.css" />
+  <link rel="stylesheet" href="/assets/css/artwork.css" />
+</head>
+<body>
+    {% include "snippets/header.njk" %}
+  <main class="artwork">
+    <img class="main-img" src="{{image}}"></img>
+    <h1>{{title}}</h1>
+    <p>{{technique}} auf {{ground}}</p>
+    <p>{{dimensions}}</p>
+    <br>
+    <p>{{ content | safe }}</p>
+  </main>
+    {% include "snippets/footer.njk" %}
+</body>
+</html>

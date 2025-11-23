@@ -1,0 +1,47 @@
+body {
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        font-family: Assistant;
+        font-weight: 200;
+        margin-bottom: 1rem;
+    }
+
+    h1 {
+        font-size: calc(2 * var(--base-font-size));
+        position: absolute;
+        top: 25px;
+        left: 220px;
+        opacity: 0.3;
+    }
+
+    h2 {
+        font-size: calc(1.6 * var(--base-font-size));
+    }
+
+    h3 {
+        font-size: calc(1.4 * var(--base-font-size));
+    }
+
+    h4 {
+        font-size: calc(1.2 * var(--base-font-size));
+        font-weight: 400;
+        text-transform: capitalize;
+    }
+
+    h5 {
+        font-size: calc(1.1 * var(--base-font-size));
+        font-weight: 400;
+        text-transform: capitalize;
+    }
+
+    h6 {
+        font-size: calc(1.0 * var(--base-font-size));
+        font-weight: 400;
+        text-transform: capitalize;
+    }
+
+}
