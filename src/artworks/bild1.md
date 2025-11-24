@@ -2,7 +2,7 @@
 title: Kussmund
 layout: artwork.njk
 date: 2025-01-01
-image: /images/bild1.jpg
+image: bild1.jpg
 dimensions: 120 x 80cm
 ground: Leinwand
 technique: Acrylfarbe

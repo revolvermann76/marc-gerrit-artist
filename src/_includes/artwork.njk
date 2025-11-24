@@ -9,7 +9,7 @@
 <body>
     {% include "snippets/header.njk" %}
   <main class="artwork">
-    <img class="main-img" src="{{image | url}}"></img>
+    <img class="main-img" src="{{('/images/' + image) | url}}"></img>
     <h1>{{title}}</h1>
     <p>{{technique}} auf {{ground}}</p>
     <p>{{dimensions}}</p>

@@ -1,3 +1,4 @@
 {% for work in collections.artworks %}
+ <img src="{{ '/thumbnails/' | append: work.data.image | url }}" />
 - [{{ work.data.title }}]({{ work.url | url }})
 {% endfor %}
