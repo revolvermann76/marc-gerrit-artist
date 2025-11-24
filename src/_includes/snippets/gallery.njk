@@ -1,4 +1,6 @@
 {% for work in collections.artworks %}
- <img src="{{ '/thumbnails/' | append: work.data.image | url }}" />
-- [{{ work.data.title }}]({{ work.url | url }})
+<a href="{{ work.url | url }}"> 
+    <img src="{{ '/thumbnails/' | append: work.data.image | url }}" alt="{{ work.data.title }}"/>
+{{ work.data.title }}
+</a>
 {% endfor %}
