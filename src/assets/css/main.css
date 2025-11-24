@@ -9,6 +9,7 @@ a {
     --top-bar-height: 80px;
     --base-font-size: 1rem;
     --default-text-color: #000;
+    font-size: calc(0.8 * var(--base-font-size));
 }
 
 a,

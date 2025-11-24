@@ -4,31 +4,35 @@ layout: layout.njk
 ---
 # Impressum
 
-**Angaben gemäß § 5 TMG**
+## Angaben gemäß § 5 TMG
 
 Marc Gerrit Langer
+
 Bucher Weg 10c
+
 16356 Ahrensfelde
 
-
-**Kontakt**
+## Kontakt
 
 Telefon: 016096467884
+
 E-Mail: postkutsche@gmail.com
 
 
-**Redaktionell verantwortlich**
+## Redaktionell verantwortlich
 
 Marc Langer
+
 Bucher Weg 10c
+
 16356 Ahrensfelde
 
 
-**Verbraucherstreitbeilegung/Universalschlichtungsstelle**
+## Verbraucherstreitbeilegung/Universalschlichtungsstelle
 
 Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer
 Verbraucherschlichtungsstelle teilzunehmen.
 
-**Quelle:**
+## Quelle
 
 https://www.e-recht24.de
