@@ -10,11 +10,14 @@
     {% include "snippets/header.njk" %}
   <main class="artwork">
     <img class="main-img" src="{{('/images/' + image) | url}}"></img>
-    <h1>{{title}}</h1>
-    <p>{{technique}} auf {{ground}}</p>
-    <p>{{dimensions}}</p>
-    <br>
-    <p>{{ content | safe }}</p>
+    <div class="details">
+      <h1>{{title}}</h1>
+      <p>{{technique}} auf {{ground}}</p>
+      <p>{{dimensions}}</p>
+      <p>{{year}}</p>
+      <br>
+      <p>{{ content | safe }}</p>
+    </div>
   </main>
     {% include "snippets/footer.njk" %}
 </body>

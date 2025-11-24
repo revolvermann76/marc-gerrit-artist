@@ -34,10 +34,15 @@ main {
 
 p {
     margin-bottom: 0.5rem;
+    line-height: 1.5rem;
 }
 
 footer {
     position: fixed;
     bottom: 0.5rem;
     right: 0.5rem;
+}
+
+strong {
+    font-weight: 900;
 }
