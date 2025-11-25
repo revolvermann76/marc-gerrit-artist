@@ -3,7 +3,7 @@ title: Am Ufer
 layout: artwork.njk
 date: 2025-11-25
 image: am-ufer.jpg
-dimensions:
+dimensions: 30 x 40cm
 ground: Leinwand
 technique: Acrylfarbe
 year: 2025

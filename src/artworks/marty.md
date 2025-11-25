@@ -3,7 +3,7 @@ title: Marty Feldman
 layout: artwork.njk
 date: 2024-01-01
 image: marty.jpg
-dimensions:
+dimensions: 30 x 40cm
 ground: Leinwand
 technique: Ölfarbe
 year: 2024
