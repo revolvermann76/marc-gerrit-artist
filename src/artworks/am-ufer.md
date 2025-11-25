@@ -8,4 +8,4 @@ ground: Leinwand
 technique: Acrylfarbe
 year: 2025
 ---
-Eine kleine Szene vom Ufer eines Sees. Die Sonne scheint. Sanfte Wellen plätschert gegen das Ufer. 
+Eine kleine Szene vom Ufer eines Sees. Die Sonne scheint. Sanfte Wellen plätschern gegen das Ufer. 
