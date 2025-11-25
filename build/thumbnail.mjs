@@ -19,7 +19,7 @@ async function run() {
     if (!stat.isFile()) continue;
 
     await sharp(inputPath)
-      .resize(150, 150, {
+      .resize(250, 250, {
         fit: "cover",
         position: "center",
       })
