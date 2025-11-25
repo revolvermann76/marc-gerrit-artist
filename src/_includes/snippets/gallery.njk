@@ -1,6 +1,8 @@
+<div class="gallery">
 {% for work in collections.artworks %}
 <a href="{{ work.url | url }}"> 
     <img src="{{ '/thumbnails/' | append: work.data.image | url }}" alt="{{ work.data.title }}"/>
-{{ work.data.title }}
+    <p>{{ work.data.title }}</p>
 </a>
 {% endfor %}
+</div>
