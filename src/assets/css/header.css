@@ -1,0 +1,10 @@
+.header-img {
+    width: 40%;
+}
+
+/* Desktop ab 1024px */
+@media (min-width: 1024px) {
+    .header-img {
+        width: 200px;
+    }
+}

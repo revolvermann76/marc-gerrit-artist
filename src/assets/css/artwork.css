@@ -1,4 +1,18 @@
 .artwork .main-img {
-    max-width: 80vb;
-    max-height: 80vh;
+    width: 100%;
+}
+
+/* Desktop ab 1024px */
+@media (min-width: 1024px) {
+    .artwork {
+        display: flex;
+    }
+    .artwork .main-img {
+        max-width: 50%;
+        height: 80vh;
+        width: auto;
+    }
+    .artwork .details{
+        margin-left: 1rem;
+    }
 }

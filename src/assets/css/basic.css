@@ -1,0 +1,36 @@
+@import "../fonts/assistant/stylesheet.css";
+@import "../fonts/open-sans/stylesheet.css";
+@import "./headings.css";
+*,
+a {
+    font-family: "Open Sans";
+    --top-bar-height: 80px;
+    --base-font-size: 1rem;
+    --default-text-color: #000;
+    font-size: calc(1 * var(--base-font-size));
+}
+
+a,
+a:link,
+a:visited {
+    text-decoration: none;
+    color: #063f62;
+    font-weight: 900;
+}
+
+a:hover {
+    background-color: #ffcb47;
+}
+
+main {
+    margin: 1rem;
+}
+
+p {
+    margin-bottom: 0.5rem;
+    line-height: 1.5rem;
+}
+
+strong {
+    font-weight: 900;
+}
