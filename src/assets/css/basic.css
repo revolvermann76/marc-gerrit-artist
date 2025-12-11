@@ -3,7 +3,7 @@
 @import "./headings.css";
 
 * {
-    --base-font-size: 2rem;
+    --base-font-size: 2.5rem;
 }
 
 @media (min-width: 1024px) {
