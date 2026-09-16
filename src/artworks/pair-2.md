@@ -7,5 +7,8 @@ dimensions: 40 x 40cm
 ground: Leinwand
 technique: Acrylfarbe
 year: 2025
+tags:
+ - Paar
+ - Landschaft
 ---
 Nachdem ich vor einiger Zeit das Bild "Lovers Point" von "Jacqueline Osborn" reproduziert hatte, bekam ich Lust, das Thema nochmal auf meine ganz eigene Weise zu interpretieren. Dabei entstand dieses Bild. 

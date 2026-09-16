@@ -7,6 +7,9 @@ dimensions: 40 x 40cm
 ground: Leinwand
 technique: Acrylfarbe
 year: 2025
+tags:
+ - Comic
+ - Fantasy
 ---
 "Kiriku und die Zauberin" ist ein animierter Film, der die Geschichte des kleinen, mutigen Jungen Kiriku erzählt. Er lebt in einem afrikanischen Dorf, das von der bösen Hexe Karaba bedroht wird. Dieser Film macht einfach Freude. Egal, wie alt man ist.
 

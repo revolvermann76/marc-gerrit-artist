@@ -7,5 +7,7 @@ dimensions: 40 x 50cm
 ground: Leinwand
 technique: Acrylfarbe
 year: 2025
+tags:
+ - Fantasy
 ---
 Die Idee, dass sich neben unserer sichtbaren Welt, vielleicht noch eine ganz andere verbirgt - mit Waldgeistern, Feen und Zwergen - fand ich schon immer schön. 

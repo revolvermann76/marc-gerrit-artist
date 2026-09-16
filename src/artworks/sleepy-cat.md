@@ -7,5 +7,8 @@ dimensions: 40 x 40cm
 ground: Leinwand
 technique: Acrylfarbe
 year: 2025
+tags:
+ - Katze
+ - Tier
 ---
 Das Bild ist ein Gemälde eines schlafenden orangefarbenen Kätzchens, gemalt im Stil von Vincent van Goghs berühmtem Werk "Die Sternennacht"

@@ -7,5 +7,8 @@ dimensions: 40 x 50cm
 ground: Leinwand
 technique: Acrylfarbe
 year: 2025
+tags:
+ - Celebrity
+ - Person
 ---
 David Bowie ist einer meiner Lieblingsmusiker. Grund genug ihn auf die Leinwand zu klecksen

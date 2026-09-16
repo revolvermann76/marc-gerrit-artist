@@ -7,6 +7,9 @@ dimensions: 30 x 40cm
 ground: Leinwand
 technique: Ölfarbe
 year: 2024
+tags:
+ - Celebrity
+ - Person
 ---
 Marty Feldman war ein britischer Komiker und Schauspieler, bekannt für seine markanten hervorstehenden Augen. 
 

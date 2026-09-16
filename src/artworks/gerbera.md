@@ -7,5 +7,8 @@ dimensions: 23 x 30cm
 ground: Leinwand
 technique: Acrylfarbe
 year: 2025
+tags:
+ - Blume
+ - Pflanze
 ---
 Dieses Bildchen habe ich als kleines Geburtstagsgeschenk gemalt. Blumen gehen immer. Blumen auf der Leinwand welken auch nicht so schnell

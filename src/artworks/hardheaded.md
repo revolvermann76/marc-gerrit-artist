@@ -7,6 +7,8 @@ dimensions: 20 x 20cm
 ground: Leinwand
 technique: Ölfarbe
 year: 2025
+tags:
+ - Abstrakt
 ---
 Dieses Bild entstand, nachdem ich einmal ziemlich aufgewühlt die sozialen Medien zur Seite gelegt hatte. Aufgewühlt durch den Umstand, dass ich so viele Menschen erleben muss, die dort nicht zum Zwecke des gegenseitigen Verständnisses miteinander sprechen, sondern rücksichtslos aus allen Rohren jeden beschießen, der nicht die eigene Meinung teilt.
 

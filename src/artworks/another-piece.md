@@ -7,5 +7,8 @@ dimensions: 40 x 50cm
 ground: Leinwand
 technique: Acrylfarbe
 year: 2025
+tags: 
+ - Monster
+ - Comic
 ---
 Orks treten selten alleine auf. Deswegen habe ich einfach noch einen zweiten Vertreter dieser Art gemalt.

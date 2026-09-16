@@ -7,5 +7,8 @@ dimensions: 50 x 70cm
 ground: Leinwand
 technique: Acrylfarbe
 year: 2025
+tags:
+ - Videospiel
+ - Fantasy
 ---
 Malenia, Klinge von Miquella, ist eine Figur aus dem Videospiel Elden Ring. Malenia erscheint als große, rothaarige Frau in einer goldenen, walkürenartigen Rüstung.

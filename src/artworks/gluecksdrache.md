@@ -7,5 +7,7 @@ dimensions: A4
 ground: Papier
 technique: Aquarellfarbe
 year: 2026
+tags:
+ - Fantasy
 ---
 Ein Glücksdrache bringt Glück und Freude. Jeder sollte einen zum Freund haben.

@@ -7,5 +7,8 @@ dimensions: 20 x 20cm
 ground: Leinwand
 technique: Acrylfarbe
 year: 2025
+tags: 
+ - Katze
+ - Tier
 ---
 Die Katzenrasse Sphynx fand ich schon immer toll. Vor allem auch, weil die Meinungen darüber so auseinandergehen. Man findet sie hübsch oder eben ganz hässlich. Was viele nicht wissen: Alle Katzen sind wundervoll.

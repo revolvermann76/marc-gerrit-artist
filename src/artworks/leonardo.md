@@ -7,6 +7,9 @@ dimensions: 40 x 50cm
 ground: Leinwand
 technique: Acrylfarbe
 year: 2025
+tags:
+ - Celebrity
+ - Person
 ---
 Leonardo da Vinci war ein italienischer Universalgelehrter der Renaissance, bekannt für seine Meisterwerke wie die "Mona Lisa" und "Das letzte Abendmahl". Er war Maler, Bildhauer, Ingenieur, Wissenschaftler und Erfinder.
 

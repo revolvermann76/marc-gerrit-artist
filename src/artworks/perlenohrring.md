@@ -7,6 +7,8 @@ dimensions: 40 x 40cm
 ground: Leinwand
 technique: Acrylfarbe
 year: 2024
+tags:
+ - Portrait
 ---
 Vermeers "[Mädchen mit dem Perlenohrring](https://de.wikipedia.org/wiki/Das_M%C3%A4dchen_mit_dem_Perlenohrring)" hat mir schon immer gefallen. Das Bild hat so eine schlichte aber intensive Ausdruckskraft. Allerdings wurde für mein Empfinden dem Perlenohrring immer viel zu viel Bedeutung beigemessen. Materielle Dinge sind so ... trivial. 
 

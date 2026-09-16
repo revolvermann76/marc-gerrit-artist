@@ -7,5 +7,7 @@ dimensions: 50 x 70cm
 ground: Leinwand
 technique: Acrylfarbe
 year: 2025
+tags:
+ - Tier
 ---
 Nachdem ich vor einiger Zeit Franz Marcs blaues Pferd reproduziert hatte dachte ich, dass es eine schöne Idee wäre, das Motiv nochmal auf meine eigene Weise zu interpretieren. So entstand dieser sympathische Vierfüßer. Prinzipiell finde ich, dass Pferde sehr schöne Tiere sind. Dennoch habe ich immer einen großen Respekt und bleibe lieber auf Abstand. 
