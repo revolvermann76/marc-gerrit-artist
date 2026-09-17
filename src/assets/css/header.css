@@ -27,16 +27,16 @@
     display: flex;
     align-items: center;
     color: inherit;
-    margin-right: 1rem;
-    position: relative;
+    position: absolute;
     top: 1rem;
+    right: 1rem;
 }
 
 .main-nav {
     display: none;
     flex-direction: column;
     position: absolute;
-    top: 100%;
+    top: calc(1rem + 28px + 0.5rem);
     right: 1rem;
     background: #fff;
     border: 1px solid #ddd;
