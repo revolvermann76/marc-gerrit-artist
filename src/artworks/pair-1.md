@@ -8,7 +8,7 @@ price: 175
 ground: Leinwand
 technique: Ölfarbe
 year: 2024
-sold: true
+sold: false
 tags:
  - Paar
  - Landschaft
