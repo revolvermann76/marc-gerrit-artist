@@ -16,6 +16,9 @@
       <p>{{technique}} auf {{ground}}</p>
       <p>{{dimensions}}</p>
       <p>{{year}}</p>
+      {% if not sold and price %}
+      <p>{{price}} €</p>
+      {% endif %}
       <br>
       <p>{{ content | safe }}</p>
     </div>
