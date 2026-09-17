@@ -16,6 +16,7 @@
     font-family: inherit;
     font-size: inherit;
     cursor: pointer;
+    margin-bottom: 0.5rem;
 }
 
 .filter-tag:hover {
