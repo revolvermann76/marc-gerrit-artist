@@ -2,14 +2,14 @@
 @import "../fonts/open-sans/stylesheet.css";
 @import "./headings.css";
 
-* {
-    --base-font-size: 2.5rem;
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
 }
 
-@media (min-width: 1024px) {
-    * {
-        --base-font-size: 1rem;
-    }
+* {
+    --base-font-size: 1rem;
 }
 
 *,
@@ -20,8 +20,10 @@ a {
     font-size: calc(1 * var(--base-font-size));
 }
 
-
-
+img {
+    max-width: 100%;
+    height: auto;
+}
 
 a,
 a:link,
@@ -37,6 +39,13 @@ a:hover {
 
 main {
     margin: 1rem;
+}
+
+@media (min-width: 1024px) {
+    main {
+        max-width: 1200px;
+        margin: 1rem auto;
+    }
 }
 
 p,
