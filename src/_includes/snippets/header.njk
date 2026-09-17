@@ -11,10 +11,5 @@
             <line x1="3" y1="18" x2="21" y2="18"></line>
         </svg>
     </label>
-    <nav class="main-nav">
-        <a href="{{'/' | url}}">Home</a>
-        <a href="{{'/aboutme' | url}}">Über mich</a>
-        <a href="{{'/impressum' | url}}">Impressum</a>
-        <a href="{{'/datenschutz' | url}}">Datenschutz</a>
-    </nav>
+    {% include "snippets/menu.njk" %}
 </div>
