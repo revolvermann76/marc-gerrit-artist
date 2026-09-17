@@ -1,7 +1,11 @@
 <link rel="stylesheet" href="{{'/assets/css/gallery.css' | url}}" />
+<div class="gallery-filter">
+    <button type="button" class="filter-tag is-active" data-tag="">Alle</button>{% for tag in collections.tags %}
+    <button type="button" class="filter-tag" data-tag="{{ tag }}">{{ tag }}</button>{% endfor %}
+</div>
 <div class="gallery">
 {% for work in collections.artworks %}
-<a href="{{ work.url | url }}">
+<a href="{{ work.url | url }}" data-tags="{{ work.data.tags | join: ',' }}">
     <span class="thumb">
         <img src="{{ '/thumbnails/' | append: work.data.image | url }}" alt="{{ work.data.title }}"/>
     </span>
@@ -9,3 +13,4 @@
 </a>
 {% endfor %}
 </div>
+<script src="{{'/assets/js/gallery-filter.js' | url}}" defer></script>

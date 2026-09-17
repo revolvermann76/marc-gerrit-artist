@@ -3,6 +3,13 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addCollection("artworks", function (collection) {
     return collection.getFilteredByGlob("src/artworks/*.md");
   });
+  eleventyConfig.addCollection("tags", function (collection) {
+    const tags = new Set();
+    collection.getFilteredByGlob("src/artworks/*.md").forEach((item) => {
+      (item.data.tags || []).forEach((tag) => tags.add(tag));
+    });
+    return [...tags].sort();
+  });
   eleventyConfig.addFilter(
     "debug",
     (content) => `<pre>${inspect(content)}</pre>`

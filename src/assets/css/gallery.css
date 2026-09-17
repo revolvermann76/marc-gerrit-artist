@@ -1,3 +1,32 @@
+.gallery-filter {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin: 0 0.5rem 1rem;
+}
+
+.filter-tag {
+    padding: 0.4rem 0.9rem;
+    border: 2px solid #063f62;
+    border-radius: 999px;
+    background: none;
+    color: #063f62;
+    font-weight: 900;
+    font-family: inherit;
+    font-size: inherit;
+    cursor: pointer;
+}
+
+.filter-tag:hover {
+    background-color: #ffcb47;
+}
+
+.filter-tag.is-active {
+    background-color: #063f62;
+    color: #fff;
+}
+
 .gallery {
     width: 100%;
     display: flex;
