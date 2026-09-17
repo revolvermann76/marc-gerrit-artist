@@ -4,7 +4,7 @@ layout: artwork.njk
 date: 2026-02-10
 image: big-grumpy-monkey.jpg
 dimensions: 20 x 30cm
-price: 125
+price: 90
 ground: Leinwand/Pappe
 technique: Acrylfarbe
 year: 2026

@@ -4,7 +4,7 @@ layout: artwork.njk
 date: 2025-11-25
 image: faun.jpg
 dimensions: 40 x 50cm
-price: 225
+price: 180
 ground: Leinwand
 technique: Acrylfarbe
 year: 2025

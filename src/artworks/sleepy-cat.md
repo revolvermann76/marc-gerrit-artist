@@ -4,7 +4,7 @@ layout: artwork.njk
 date: 2025-11-26
 image: sleepy-cat.jpg
 dimensions: 40 x 40cm
-price: 200
+price: 150
 ground: Leinwand
 technique: Acrylfarbe
 year: 2025

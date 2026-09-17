@@ -4,7 +4,7 @@ layout: artwork.njk
 date: 2025-11-25
 image: pair-1.jpg
 dimensions: 30 x 40cm
-price: 175
+price: 220
 ground: Leinwand
 technique: Ölfarbe
 year: 2024
