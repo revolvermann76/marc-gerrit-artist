@@ -28,6 +28,8 @@
     align-items: center;
     color: inherit;
     margin-right: 1rem;
+    position: relative;
+    top: 1rem;
 }
 
 .main-nav {
