@@ -13,6 +13,10 @@ npm run clean        # delete dist/
 
 There are no tests or linters configured.
 
+## Git-Workflow
+
+Dieses Projekt wird nur von einer Person genutzt. Kein Feature-Branch-/Pull-Request-Workflow: Änderungen immer direkt auf `main` committen und pushen.
+
 ## Architecture
 
 This is an [Eleventy (11ty)](https://www.11ty.dev/) static site for artist Marc Gerrit Langer. Output goes to `dist/` with a `pathPrefix` of `/marc-gerrit-artist/` (configured in `.eleventy.js`).
