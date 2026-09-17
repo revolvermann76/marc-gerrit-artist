@@ -4,7 +4,7 @@ layout: artwork.njk
 date: 2025-09-09
 image: leonardo.jpg
 dimensions: 40 x 50cm
-price: 225
+price: 300
 ground: Leinwand
 technique: Acrylfarbe
 year: 2025
