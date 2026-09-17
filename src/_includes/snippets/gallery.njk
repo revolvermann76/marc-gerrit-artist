@@ -1,8 +1,10 @@
 <link rel="stylesheet" href="{{'/assets/css/gallery.css' | url}}" />
 <div class="gallery">
 {% for work in collections.artworks %}
-<a href="{{ work.url | url }}"> 
-    <img src="{{ '/thumbnails/' | append: work.data.image | url }}" alt="{{ work.data.title }}"/>
+<a href="{{ work.url | url }}">
+    <span class="thumb">
+        <img src="{{ '/thumbnails/' | append: work.data.image | url }}" alt="{{ work.data.title }}"/>
+    </span>
     <p>{{ work.data.title }}</p>
 </a>
 {% endfor %}
