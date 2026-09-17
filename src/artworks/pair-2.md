@@ -8,7 +8,7 @@ price: 200
 ground: Leinwand
 technique: Acrylfarbe
 year: 2025
-sold: true
+sold: false
 tags:
  - Paar
  - Landschaft
