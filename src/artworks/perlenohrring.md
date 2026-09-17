@@ -4,7 +4,7 @@ layout: artwork.njk
 date: 2024-01-01
 image: perlenohrring.jpg
 dimensions: 40 x 40cm
-price: 280
+price: 150
 ground: Leinwand
 technique: Acrylfarbe
 year: 2024
