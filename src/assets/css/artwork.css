@@ -1,5 +1,6 @@
 .artwork .main-img {
     width: 100%;
+    border-radius: 8px;
 }
 
 /* Desktop ab 1024px */

@@ -8,6 +8,10 @@
     width: 50%;
 }
 
+.gallery a:hover {
+    border-radius: 8px;
+}
+
 @media (min-width: 600px) {
     .gallery a {
         width: 33.333%;
