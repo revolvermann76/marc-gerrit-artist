@@ -4,6 +4,7 @@ layout: artwork.njk
 date: 2025-11-25
 image: a-piece-of-ork.jpg
 dimensions: 24 x 30cm
+price: 135
 ground: Leinwand
 technique: Acrylfarbe
 year: 2025

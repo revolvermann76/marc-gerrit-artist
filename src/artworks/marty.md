@@ -4,6 +4,7 @@ layout: artwork.njk
 date: 2024-01-01
 image: marty.jpg
 dimensions: 30 x 40cm
+price: 175
 ground: Leinwand
 technique: Ölfarbe
 year: 2024

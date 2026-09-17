@@ -4,9 +4,11 @@ layout: artwork.njk
 date: 2025-12-20
 image: sperling.jpg
 dimensions: 30 x 40cm
+price: 175
 ground: Leinwand
 technique: Acrylfarbe
 year: 2024
+sold: true
 tags:
  - Tier
  - Vogel

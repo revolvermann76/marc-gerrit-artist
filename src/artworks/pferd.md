@@ -4,6 +4,7 @@ layout: artwork.njk
 date: 2025-11-25
 image: pferd.jpg
 dimensions: 30 x 40cm
+price: 175
 ground: Leinwand
 technique: Acrylfarbe
 year: 2025

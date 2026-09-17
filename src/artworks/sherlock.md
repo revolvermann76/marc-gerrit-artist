@@ -4,6 +4,7 @@ layout: artwork.njk
 date: 2025-12-17
 image: sherlock.jpg
 dimensions: 40 x 50cm
+price: 225
 ground: Leinwand
 technique: Ölfarbe
 year: 2025

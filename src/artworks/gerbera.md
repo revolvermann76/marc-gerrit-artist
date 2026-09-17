@@ -4,9 +4,11 @@ layout: artwork.njk
 date: 2025-11-25
 image: gerbera.jpg
 dimensions: 23 x 30cm
+price: 133
 ground: Leinwand
 technique: Acrylfarbe
 year: 2025
+sold: true
 tags:
  - Blume
  - Pflanze

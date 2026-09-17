@@ -4,9 +4,11 @@ layout: artwork.njk
 date: 2025-12-17
 image: sailor-moon.jpg
 dimensions: 50 x 70cm
+price: 300
 ground: Leinwand
 technique: Acrylfarbe
 year: 2025
+sold: true
 tags:
  - Comic
 ---

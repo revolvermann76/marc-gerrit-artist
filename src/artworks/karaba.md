@@ -4,9 +4,11 @@ layout: artwork.njk
 date: 2025-11-25
 image: karaba.jpg
 dimensions: 40 x 40cm
+price: 200
 ground: Leinwand
 technique: Acrylfarbe
 year: 2025
+sold: true
 tags:
  - Comic
  - Fantasy

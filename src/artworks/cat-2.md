@@ -4,6 +4,7 @@ layout: artwork.njk
 date: 2025-11-25
 image: cat-2.jpg
 dimensions: 20 x 20cm
+price: 100
 ground: Leinwand
 technique: Acrylfarbe
 year: 2025

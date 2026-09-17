@@ -4,6 +4,7 @@ layout: artwork.njk
 date: 2025-09-09
 image: hardheaded.jpg
 dimensions: 20 x 20cm
+price: 100
 ground: Leinwand
 technique: Ölfarbe
 year: 2025

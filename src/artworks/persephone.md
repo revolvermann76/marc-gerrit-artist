@@ -4,9 +4,11 @@ layout: artwork.njk
 date: 2025-11-25
 image: persephone.jpg
 dimensions: 50 x 70cm
+price: 300
 ground: Leinwand
 technique: Ölfarbe
 year: 2025
+sold: true
 tags:
  - Fantasy
 ---

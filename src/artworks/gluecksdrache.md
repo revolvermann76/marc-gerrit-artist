@@ -4,6 +4,7 @@ layout: artwork.njk
 date: 2026-02-10
 image: gluecksdrache.png
 dimensions: A4
+price: 127
 ground: Papier
 technique: Aquarellfarbe
 year: 2026

@@ -4,9 +4,11 @@ layout: artwork.njk
 date: 2025-11-25
 image: blaues-pferd.jpg
 dimensions: 40 x 50cm
+price: 225
 ground: Leinwand
 technique: Ölfarbe
 year: 2023
+sold: true
 tags:
  - Tier
  - Landschaft

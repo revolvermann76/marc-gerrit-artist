@@ -4,6 +4,7 @@ layout: artwork.njk
 date: 2025-09-09
 image: horse-2.jpg
 dimensions: 50 x 70cm
+price: 300
 ground: Leinwand
 technique: Acrylfarbe
 year: 2025

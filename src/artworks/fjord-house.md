@@ -4,6 +4,7 @@ layout: artwork.njk
 date: 2025-11-25
 image: fjord-house.jpg
 dimensions: 30 x 30cm
+price: 150
 ground: Leinwand
 technique: Acrylfarbe
 year: 2024
