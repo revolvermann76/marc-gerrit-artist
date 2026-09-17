@@ -3,4 +3,18 @@
     <a href="{{'/' | url}}" title="Home">
         <img class="header-img" src="{{'/assets/logo.png' | url}}" alt="Logo Marc Gerrit">
     </a>
+    <input type="checkbox" id="menu-toggle" class="menu-toggle">
+    <label for="menu-toggle" class="menu-button" aria-label="Menü öffnen">
+        <svg viewBox="0 0 24 24" width="28" height="28" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+            <line x1="3" y1="6" x2="21" y2="6"></line>
+            <line x1="3" y1="12" x2="21" y2="12"></line>
+            <line x1="3" y1="18" x2="21" y2="18"></line>
+        </svg>
+    </label>
+    <nav class="main-nav">
+        <a href="{{'/' | url}}">Home</a>
+        <a href="{{'/aboutme' | url}}">Über mich</a>
+        <a href="{{'/impressum' | url}}">Impressum</a>
+        <a href="{{'/datenschutz' | url}}">Datenschutz</a>
+    </nav>
 </div>
