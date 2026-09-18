@@ -1,7 +1,9 @@
 const inspect = require("util").inspect;
 module.exports = function (eleventyConfig) {
   eleventyConfig.addCollection("artworks", function (collection) {
-    return collection.getFilteredByGlob("src/artworks/*.md");
+    return collection
+      .getFilteredByGlob("src/artworks/*.md")
+      .sort((a, b) => b.date - a.date);
   });
   eleventyConfig.addCollection("tags", function (collection) {
     const tags = new Set();
