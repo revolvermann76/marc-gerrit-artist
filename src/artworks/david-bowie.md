@@ -11,5 +11,6 @@ year: 2025
 tags:
  - Celebrity
  - Person
+ - Portrait
 ---
 David Bowie ist einer meiner Lieblingsmusiker. Grund genug, ihn auf die Leinwand zu klecksen

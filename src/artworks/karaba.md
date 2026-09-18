@@ -12,6 +12,7 @@ sold: true
 tags:
  - Comic
  - Fantasy
+ - Portrait
 ---
 "Kiriku und die Zauberin" ist ein animierter Film, der die Geschichte des kleinen, mutigen Jungen Kiriku erzählt. Er lebt in einem afrikanischen Dorf, das von der bösen Hexe Karaba bedroht wird. Dieser Film macht einfach Freude. Egal, wie alt man ist.
 

@@ -11,6 +11,7 @@ year: 2025
 tags:
  - Celebrity
  - Person
+ - Portrait
 ---
 Leonardo da Vinci war ein italienischer Universalgelehrter der Renaissance, bekannt für seine Meisterwerke wie die "Mona Lisa" und "Das letzte Abendmahl". Er war Maler, Bildhauer, Ingenieur, Wissenschaftler und Erfinder.
 

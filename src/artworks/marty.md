@@ -11,6 +11,7 @@ year: 2024
 tags:
  - Celebrity
  - Person
+ - Portrait
 ---
 Marty Feldman war ein britischer Komiker und Schauspieler, bekannt für seine markanten hervorstehenden Augen. 
 
