@@ -14,3 +14,5 @@ tags:
 Der Hulk ist eine der eindrucksvollsten Figuren aus dem Marvel-Universum: Ein Mann, der von seiner eigenen Wut überwältigt wird und sich dabei in ein grünes Ungetüm mit unbändiger Kraft verwandelt.
 
 In diesem Bild wollte ich genau diesen Moment einfangen - den Blick kurz vor der Explosion. Der zusammengekniffene Blick und die gefletschten Zähne erzählen mehr als ein ganzer Körper es könnte.
+
+Inspiriert hat mich zu diesem Bild das jüngste Wahlergebnis bei der Landtagswahl in Sachsen-Anhalt.
