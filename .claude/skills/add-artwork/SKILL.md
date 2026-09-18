@@ -19,6 +19,8 @@ Kopieren verwenden, nicht erneut lesen/anzeigen.
 
 ## Ablauf
 
+
+0. Wechsle im Repo auf den Branch 'main'
 1. **Bild kurz beschreiben.** Motiv/Stimmung in ein bis zwei Sätzen nennen,
    damit der Nutzer sieht, dass das richtige Bild erkannt wurde.
 
@@ -85,7 +87,11 @@ Kopieren verwenden, nicht erneut lesen/anzeigen.
    erstellen und ansehen, danach den Serverprozess wieder beenden
    (`pkill -f "eleventy --serve"`).
 
-9. **Direkt auf main committen und pushen** (kein Branch, kein PR):
+09. **Kurz zusammenfassen**, was angelegt wurde (Maße, Material, Preis,
+    Jahr, Tags), und darauf hinweisen, dass der Beschreibungstext bei Bedarf
+    noch angepasst werden kann.
+
+10. **Direkt auf main committen und pushen** (kein Branch, kein PR):
    ```bash
    git add src/artworks/<slug>.md src/images/<slug>.jpg
    git commit -m "Neues Kunstwerk <Titel> hinzufügen
@@ -93,10 +99,7 @@ Kopieren verwenden, nicht erneut lesen/anzeigen.
    Co-Authored-By: Claude Sonnet 5 <noreply@anthropic.com>"
    git push origin main
    ```
-
-10. **Kurz zusammenfassen**, was angelegt wurde (Maße, Material, Preis,
-    Jahr, Tags), und darauf hinweisen, dass der Beschreibungstext bei Bedarf
-    noch angepasst werden kann.
+   Vor dem Commit aber nochmal rückfragen, ob der commit jetzt ausgeführt werden soll. 
 
 ## Hinweise
 
