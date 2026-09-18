@@ -9,7 +9,6 @@
         display: flex;
     }
     .artwork .main-img {
-        max-width: 50%;
         height: 80vh;
         width: auto;
     }
