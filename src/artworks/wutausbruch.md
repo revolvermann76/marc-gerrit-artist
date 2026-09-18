@@ -10,6 +10,7 @@ technique: Acrylfarbe
 year: 2026
 tags:
  - Comic
+ - Monster
 ---
 Der Hulk ist eine der eindrucksvollsten Figuren aus dem Marvel-Universum: Ein Mann, der von seiner eigenen Wut überwältigt wird und sich dabei in ein grünes Ungetüm mit unbändiger Kraft verwandelt.
 
