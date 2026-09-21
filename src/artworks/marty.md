@@ -3,7 +3,7 @@ title: Marty Feldman
 layout: artwork.njk
 date: 2024-01-01
 image: marty.jpg
-dimensions: 30 x 40cm
+dimensions: 25 x 30cm
 price: 175
 ground: Leinwand
 technique: Ölfarbe

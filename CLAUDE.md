@@ -38,6 +38,7 @@ dimensions: 30 x 40cm
 ground: Leinwand
 technique: Acrylfarbe
 year: 2024
+sold: true
 ```
 
 The Markdown body is the artist's description of the piece. Eleventy collects all `src/artworks/*.md` files into the `artworks` collection (defined in `.eleventy.js`).
@@ -51,9 +52,3 @@ The Markdown body is the artist's description of the piece. Eleventy collects al
 ### Styles
 
 `src/assets/css/main.css` is the single entry point; it `@import`s `reset.css` and `basic.css`. Page-specific stylesheets (`gallery.css`, `artwork.css`, `header.css`, `footer.css`, `headings.css`) are linked directly from templates as needed.
-
-### Adding a new artwork
-
-1. Add the image file to `src/images/`.
-2. Create `src/artworks/<slug>.md` with the required frontmatter and a description body.
-3. Run `npm run build` (or `npm run serve`) — the thumbnail is generated automatically and the piece appears in the gallery.

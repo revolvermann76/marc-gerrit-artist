@@ -3,7 +3,7 @@ title: Geralt
 layout: artwork.njk
 date: 2026-09-18
 image: geralt.jpg
-dimensions: unbekannt
+dimensions: 40 x 65cm
 price: 350
 ground: Leinwand
 technique: Ölfarbe

@@ -3,7 +3,7 @@ title: Schutzengel
 layout: artwork.njk
 date: 2026-09-18
 image: schutzengel.jpg
-dimensions: 20 x 29cm
+dimensions: 30 x 40cm
 price: 200
 ground: Leinwand auf Presspappe
 technique: Acrylfarbe

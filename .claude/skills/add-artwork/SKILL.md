@@ -7,8 +7,7 @@ description: Neues Kunstwerk zur Galerie hinzufügen, wenn der Nutzer ein Bild e
 
 Dieser Skill deckt den kompletten Ablauf ab, ein neues Kunstwerk in dieses
 Eleventy-Projekt aufzunehmen: Bild speichern, Markdown-Datei mit Frontmatter
-anlegen, Build/Screenshot-Test, Commit direkt auf `main` (kein Feature-Branch,
-kein PR — siehe `CLAUDE.md`, Abschnitt "Git-Workflow").
+anlegen, Build/Screenshot-Test
 
 ## Voraussetzung
 
@@ -19,8 +18,6 @@ Kopieren verwenden, nicht erneut lesen/anzeigen.
 
 ## Ablauf
 
-
-0. Wechsle im Repo auf den Branch 'main'
 1. **Bild kurz beschreiben.** Motiv/Stimmung in ein bis zwei Sätzen nennen,
    damit der Nutzer sieht, dass das richtige Bild erkannt wurde.
 
