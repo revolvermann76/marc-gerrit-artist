@@ -13,6 +13,6 @@ tags:
  - Person
  - Fantasy
 ---
-Karaba aus "Kirikou und die Zauberin" – aber in dem Moment, bevor der Dorn aus ihrem Rücken gezogen wird, der sie all die Jahre böse gemacht hat. Ich wollte sie nicht als Monster zeigen, sondern als das, was sie eigentlich ist: eine Frau kurz davor, von ihrem Schmerz erlöst zu werden.
+Ein weiteres Bild von Karaba aus "Kirikou und die Zauberin" – diesmal in dem Moment, nachdem der Dorn aus ihrem Rücken gezogen wurde, der sie all die Jahre böse gemacht hat. Ich wollte sie nicht als Monster zeigen, sondern als das, was sie eigentlich ist: eine Frau im Schmerz, die schließlich davon erlöst wurde.
 
-Der goldene Schmuck, die wilde Frisur, der Nagel in ihrer Hand – all das sollte diese Spannung zwischen Bedrohlichkeit und Verletzlichkeit einfangen. Das tiefe Blau im Hintergrund war mir wichtig, um der Szene etwas Nächtliches, fast Magisches zu geben.
+Das Bild ist in großen Teilen eine Reproduktion eines digitalen Werkes, dessen Künstler ich aber nicht kenne.
