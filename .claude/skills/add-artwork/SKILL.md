@@ -35,7 +35,8 @@ Kopieren verwenden, nicht erneut lesen/anzeigen.
 3. **Beschreibungstext klären.** Fragen, ob der Nutzer den Body-Text selbst
    liefert oder einen kurzen Entwurf (2 Absätze, persönlicher Ton wie in
    bestehenden Werken) wünscht. Bei Entwurf: Bildmotiv aufgreifen, keine
-   Fakten erfinden, die nicht aus Bild oder Nutzerangaben hervorgehen.
+   Fakten erfinden, die nicht aus Bild oder Nutzerangaben hervorgehen. Dann 
+   den Text dem Nutzer zur Freigabe zeigen, ggf. anpassen.
 
 4. **Slug bestimmen.** Aus dem Titel einen kebab-case-Slug ableiten (Umlaute
    transliterieren, z. B. Schutzengel → `schutzengel`). Prüfen, dass
@@ -88,7 +89,7 @@ Kopieren verwenden, nicht erneut lesen/anzeigen.
     Jahr, Tags), und darauf hinweisen, dass der Beschreibungstext bei Bedarf
     noch angepasst werden kann.
 
-10. **Direkt auf main committen und pushen** (kein Branch, kein PR):
+10. **committen und pushen**
    ```bash
    git add src/artworks/<slug>.md src/images/<slug>.jpg
    git commit -m "Neues Kunstwerk <Titel> hinzufügen
@@ -97,11 +98,10 @@ Kopieren verwenden, nicht erneut lesen/anzeigen.
    git push origin main
    ```
    Vor dem Commit aber nochmal rückfragen, ob der commit jetzt ausgeführt werden soll. 
+   Nach dem Pushen einen PR erstellen, der die Änderungen auf main zusammenführt. PR-Titel: "Neues Kunstwerk <Titel> hinzufügen". PR-Body: "Dieses PR fügt das neue Kunstwerk <Titel> hinzu, inklusive Bild und Beschreibungstext."
 
 ## Hinweise
 
-- Kein Feature-Branch, kein Pull Request — dieses Projekt wird nur von einer
-  Person genutzt (siehe `CLAUDE.md`).
 - `npm install` nur ausführen, wenn `node_modules` fehlt oder `npm run build`
   wegen fehlender Abhängigkeiten (z. B. `rimraf: not found`) scheitert.
 - Nachträgliche Änderungen an bereits angelegten Werken (Preis, Tags,
