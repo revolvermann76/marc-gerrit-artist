@@ -6,6 +6,7 @@
   <title>{{ title }}</title>
   <link rel="stylesheet" href="{{'/assets/css/main.css' | url}}" />
   <link rel="stylesheet" href="{{'/assets/css/artwork.css' | url}}" />
+  <link rel="stylesheet" href="{{'/assets/css/contact-dialog.css' | url}}" />
 </head>
 <body>
     {% include "snippets/header.njk" %}
@@ -21,9 +22,13 @@
       {% endif %}
       <br>
       <p>{{ content | safe }}</p>
+      <button type="button" class="contact-open">Kontakt</button>
     </div>
   </main>
+
     {% include "snippets/footer.njk" %}
 </body>
 <script data-goatcounter="https://revolvermann76.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+<script src="{{'/assets/js/ntfy.js' | url}}" defer></script>
+<script src="{{'/assets/js/contact-dialog.js' | url}}" defer></script>
 </html>
