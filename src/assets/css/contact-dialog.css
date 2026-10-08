@@ -1,0 +1,126 @@
+.contact-open {
+    padding: 0.6rem 1.2rem;
+    border: 2px solid #063f62;
+    border-radius: 999px;
+    background: none;
+    color: #063f62;
+    font-weight: 900;
+    font-family: inherit;
+    font-size: inherit;
+    cursor: pointer;
+}
+
+.contact-open:hover {
+    background-color: #ffcb47;
+}
+
+.contact-dialog {
+    width: min(480px, 90vw);
+    max-width: 90vw;
+    box-sizing: border-box;
+    border: none;
+    border-radius: 8px;
+    padding: 1.5rem;
+}
+
+.contact-dialog::backdrop {
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.contact-dialog form {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+}
+
+.contact-fields {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+}
+
+.contact-fields[hidden] {
+    display: none;
+}
+
+.contact-dialog label {
+    font-weight: 900;
+    margin-top: 0.5rem;
+}
+
+.contact-dialog input,
+.contact-dialog textarea {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 0.6rem;
+    border: 2px solid #063f62;
+    border-radius: 8px;
+    font-family: inherit;
+    font-size: inherit;
+}
+
+.contact-dialog textarea {
+    resize: vertical;
+    min-height: 6rem;
+}
+
+.contact-dialog-actions {
+    display: flex;
+    justify-content: flex-end;
+    gap: 0.5rem;
+    margin-top: 1rem;
+}
+
+.contact-dialog-actions[hidden] {
+    display: none;
+}
+
+.contact-dialog-actions button {
+    padding: 0.6rem 1.2rem;
+    border: 2px solid #063f62;
+    border-radius: 999px;
+    font-family: inherit;
+    font-size: inherit;
+    cursor: pointer;
+}
+
+.contact-cancel {
+    background: none;
+    color: #063f62;
+}
+
+.contact-cancel:hover {
+    background-color: #ffcb47;
+}
+
+.contact-submit {
+    background-color: #063f62;
+    color: #fff;
+}
+
+.contact-submit:hover {
+    background-color: #ffcb47;
+    color: #063f62;
+}
+
+.contact-status {
+    margin-top: 1rem;
+    font-weight: 900;
+    text-align: center;
+}
+
+@media (max-width: 600px) {
+    .contact-dialog {
+        position: fixed;
+        inset: 0;
+        margin: 0;
+        width: 100%;
+        max-width: 100%;
+        height: 100%;
+        max-height: 100%;
+        border-radius: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+}
