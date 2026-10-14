@@ -12,5 +12,6 @@ sold: true
 tags:
  - Blume
  - Stillleben
+ - Pflanze
 ---
 Drei Tulpen, dicht beieinander – Gelb mit violetten Streifen, tiefes Lila und ein warmes Rot-Orange, das fast glüht. Das satte Blau im Hintergrund lässt die Farben der Blüten noch kräftiger leuchten.
