@@ -8,6 +8,7 @@ price: 200
 ground: Leinwand auf Presspappe
 technique: Acrylfarbe
 year: 2026
+sold: true
 tags:
  - Fantasy
  - Person
